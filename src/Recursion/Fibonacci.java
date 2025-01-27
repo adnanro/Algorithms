@@ -1,8 +1,7 @@
 package Recursion;
 public class Fibonacci {
 
-    // Recursive method to calculate Fibonacci
-    public static long fibonacci(int n) {
+        public static long fibonacci(int n) {
         if (n <= 1) {
             return n;
         }
